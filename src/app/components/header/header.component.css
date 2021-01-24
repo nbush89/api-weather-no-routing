@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  align-items: center;
+  height: 80px;
+  margin-bottom: 25px;
+  width: 100%;
+}
+h1 {
+  color: green;
+  margin-left: 20px;
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+li {
+  list-style: none;
+  margin: 20px;
+  font-size: 20px;
+}
